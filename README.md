@@ -37,7 +37,7 @@ The script will ask for a **MyAuto.ge URL** and the number of pages to scrape. I
 
 ### Example Run:
 ```
-Enter URL to scrape: [https://www.myauto.ge/en/s/?price_from=5000&price_to=20000](https://www.myauto.ge/en/s/for-sell-cars-mercedes-benz?vehicleType=0&bargainType=0&mansNModels=25&currId=3&mileageType=1&layoutId=1)
+Enter URL to scrape: https://www.myauto.ge/en/s/for-sell-cars-mercedes-benz?vehicleType=0&bargainType=0&mansNModels=25&currId=3&mileageType=1&layoutId=1)
 How many pages would you like to parse? Press Enter if you want to parse all pages: 5
 ```
 
