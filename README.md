@@ -63,7 +63,7 @@ The extracted data will be saved in an Excel file named like:
 This project is strictly for **educational and research purposes**. **Scraping websites without permission may violate their terms of service.** Please ensure compliance with [MyAuto.ge's terms](https://www.myauto.ge/) before running this script.
 
 ## License 📜
-**Creative Commons Attribution-ShareAlike 4.0 International (CC-BY-SA 4.0)**
+**Apache license 2.0**
 
 ---
 Made with ❤️ for educational purposes.
