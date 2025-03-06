@@ -21,7 +21,7 @@
 
 ### Install required dependencies:
 ```sh
-pip install selenium beautifulsoup4 cloudscraper pandas openpyxl
+pip install -r requirements.txt
 ```
 
 ### Setup ChromeDriver:
